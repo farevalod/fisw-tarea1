@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}Goals and Objectives}{1}
+\contentsline {subsection}{\numberline {1.1}Business}{1}
+\contentsline {paragraph}{\textbf {Goal}: Promote exercise among users}{1}
+\contentsline {paragraph}{Develop an active Alternate Reality Game}{1}
+\contentsline {paragraph}{It should be very easy to adopt}{1}
+\contentsline {subsection}{\numberline {1.2}Project}{2}
+\contentsline {paragraph}{\textbf {Goal}: Active interfaces}{2}
+\contentsline {paragraph}{\textbf {Goal}: Study robot performance and stats}{2}
+\contentsline {subsection}{\numberline {1.3}System}{2}
+\contentsline {paragraph}{\textbf {Goal}: Tracking}{2}
+\contentsline {paragraph}{Enable users to play solo or team-up}{2}
+\contentsline {paragraph}{Enable GameMasters to setup game parameters}{2}
+\contentsline {section}{\numberline {2}Requirements}{2}
+\contentsline {subsection}{\numberline {2.1}Functional}{2}
+\contentsline {paragraph}{Robots}{2}
+\contentsline {paragraph}{Teams}{2}
+\contentsline {paragraph}{Explore}{2}
+\contentsline {paragraph}{Items}{2}
+\contentsline {paragraph}{Setup}{2}
+\contentsline {paragraph}{Views}{2}
+\contentsline {subparagraph}{Map}{3}
+\contentsline {subparagraph}{Augmented Reality}{3}
+\contentsline {subsection}{\numberline {2.2}Non-Functional}{3}
+\contentsline {paragraph}{Endgame}{3}
+\contentsline {subparagraph}{GM Ends game}{3}
+\contentsline {subparagraph}{Humans win}{3}
+\contentsline {subparagraph}{Robots win}{3}
+\contentsline {paragraph}{Logs/Score}{3}
+\contentsline {paragraph}{Top Player/Team}{3}
+\contentsline {section}{\numberline {3}Use Case Diagram}{3}
+\contentsline {subsection}{\numberline {3.1}Actors}{3}
+\contentsline {paragraph}{Player}{3}
+\contentsline {paragraph}{Robot}{3}
+\contentsline {paragraph}{Item}{3}
+\contentsline {paragraph}{Game-Master}{3}
+\contentsline {paragraph}{Team}{3}
+\contentsline {subsection}{\numberline {3.2}Cases}{3}
+\contentsline {subsection}{\numberline {3.3}Relationship between Cases}{4}
